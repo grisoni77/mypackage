@@ -1,0 +1,6 @@
+{
+	"name": "grisoni77/mypackage",
+	"require": {
+		"monolog/monolog": "1.0.*"
+	}
+}
