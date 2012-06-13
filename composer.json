@@ -2,5 +2,8 @@
 	"name": "grisoni77/mypackage",
 	"require": {
 		"monolog/monolog": "1.0.*"
+	},
+	"autoload": {
+		"psr-0": {"Grisoni77/MyPackage": "/"}
 	}
 }
