@@ -1,3 +1,3 @@
 <?php
-echo 1;
-phpinfo();
+
+echo 'nuovo commit in branch2';
